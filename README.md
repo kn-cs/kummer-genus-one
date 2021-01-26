@@ -24,6 +24,8 @@ To report a bug or make a comment regarding the implementations please drop a ma
 
 * **KL-p25519/10-limb**: 10-limb implementations of the Kummer line KL[p255-19,838,831].
 
+* **KL-p2663**: 10-limb implementations of the Kummer line KL[p266-3,683,18].
+
 * **KL-p44417**: 16-limb implementations of the Kummer line KL[p444-17,659,370].
 
 * **KL-p4482241**: 16-limb implementations of the Kummer line KL[p448-224-1,659,370].
