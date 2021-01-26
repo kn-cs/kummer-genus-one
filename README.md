@@ -1,7 +1,7 @@
 ## Efficient Kummer line computations for genus one curves at 128-bit, 224-bit and 256-bit security levels.
 
 The source codes of this repository correspond to the Kummer line computations of the work [Kummer versus Montgomery Face-off over 
-Prime Order Fields](https://eprint.iacr.org/2021/019), authored by [Kaushik Nath](kaushikn_r@isical.ac.in) 
+Prime Order Fields](https://eprint.iacr.org/2021/019.pdf), authored by [Kaushik Nath](kaushikn_r@isical.ac.in) 
 & [Palash Sarkar](palash@isical.ac.in) of [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in).
 All the implementations are 4-way vectorized and have been developed using assembly language targeting the modern Intel architectures 
 like Skylake and Haswell which are enabled with the AVX2 instruction set.
