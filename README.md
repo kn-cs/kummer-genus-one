@@ -36,6 +36,6 @@ To report a bug or make a comment regarding the implementations please drop a ma
 
 * **KL-p51075**: 18-limb implementations of the Kummer line KL[p510-75,1063,198].
 
-* **KL-p5211**: 18-limb implementations of the Kummer line KL[p506-45,1559,796].
+* **KL-p5211**: 18-limb implementations of the Kummer line KL[p521-1,1559,796].
 
 ---    
